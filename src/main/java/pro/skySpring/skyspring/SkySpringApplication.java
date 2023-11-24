@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SkySpringApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SkySpringApplication.class, args);
 	}
 
